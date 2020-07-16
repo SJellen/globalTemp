@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  color: black;
+}
+
+body .d3-tip {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 6px;
+  color: white;
+  text-align: center;
+  padding: 0.5em;
+}
+
+section {
+  width: auto;
+  overflow: visible;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+}
+
+section heading {
+  text-align: center;
+}
+
+section svg {
+  stroke-width: 1;
+  stroke: black;
+}
+
+section svg .y-axis text, section svg .x-axis text, section svg .legend text {
+  stroke-width: 0;
+}
+
+section svg .y-axis .map, section svg .x-axis .map, section svg .legend .map {
+  stroke-width: 0;
+}
+
+section svg .y-axis .map rect:hover, section svg .x-axis .map rect:hover, section svg .legend .map rect:hover {
+  stroke-width: 2;
+}
+/*# sourceMappingURL=style.css.map */
