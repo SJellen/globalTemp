@@ -1,4 +1,6 @@
 <h1 align="center">Welcome to Global Monthly Temp 👋</h1>
+
+![screenshot](https://github.com/SJellen/globalTemp/blob/master/ScreenShot.png)
 <p>
   <a href="https://twitter.com/ScottJellen" target="_blank">
     <img alt="Twitter: ScottJellen" src="https://img.shields.io/twitter/follow/ScottJellen.svg?style=social" />
